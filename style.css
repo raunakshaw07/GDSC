@@ -33,7 +33,7 @@ a {
     display: none;
     cursor: pointer;
 }
-.navbar .logo img {
+.navbar > .logo > img {
     height: 3rem;
     width: 10rem;
 }
